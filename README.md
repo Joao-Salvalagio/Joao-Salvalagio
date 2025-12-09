@@ -44,17 +44,6 @@ Atualmente, foco em aprimorar meus conhecimentos como <strong>Desenvolvedor Full
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/Joao-Salvalagio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Salvalagio&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Salvalagio&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</div>
-
----
-
 ### 🌐 Contate-me
 
 <p align="center">
