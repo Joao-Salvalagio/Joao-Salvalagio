@@ -5,7 +5,7 @@
 ---
 
 <p align="justify">
-Olá, me chamo <strong>João Miguel Silva Salvalagio</strong>, tenho 21 anos e sou natural de Mandaguari-PR. Concluí o ensino médio na escola <strong>CEMAC</strong> na cidade de Luís Eduardo Magalhães-BA, onde vivi dos meus 2 anos de idade aos 19 junto com meus pais e minha irmã. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na faculdade <strong>Unicesumar</strong> em Maringá-PR, onde moro desde fevereiro de 2024.
+Olá, me chamo <strong>João Miguel Silva Salvalagio</strong>, tenho 22 anos e sou natural de Mandaguari-PR. Concluí o ensino médio na escola <strong>CEMAC</strong> na cidade de Luís Eduardo Magalhães-BA, onde vivi dos meus 2 anos de idade aos 19 junto com meus pais e minha irmã. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na faculdade <strong>Unicesumar</strong> em Maringá-PR, onde moro desde fevereiro de 2024.
 
 Sou apaixonado por tecnologia desde pequeno, comecei com games e hoje aplico essa paixão no desenvolvimento de software. Após encerrar minha trajetória competitiva no <strong>Counter-Strike</strong>, decidi me dedicar integralmente à área de tecnologia, estudando tanto na faculdade quanto em plataformas como a <strong>Alura</strong>.
 
